@@ -1,0 +1,20 @@
+* {
+  background-color: #fffffc;
+}
+.App {
+  text-align: center;
+  background-color: #ee4266;
+  margin: 200px 400px;
+  border-radius: 8px;
+}
+.buttonstyle {
+  color: black;
+  margin: 20px 0 ;
+}
+.counterstyle{
+  background-color: #ee4266;
+}
+.spanstyle{
+  margin: 10px;
+  background-color: #ee4266;
+}
